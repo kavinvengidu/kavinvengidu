@@ -6,7 +6,7 @@ I am currently studying at the KPR institute of engineering and technology. I am
 
 Skills: PYTHON / JAVA / C / SCI-KIT LEARN / NUMPY / PANDAS / STREAMLIT
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
