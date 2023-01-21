@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Kavin
+#### I am Data science aspirant
+![I am Data science aspirant](https://miro.medium.com/max/974/1*qzvOZZgHq_allGVXq8RWeQ.png)
 
-<!--
-**kavinvengidu/kavinvengidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently studying at the KPR institute of engineering and technology. I am currently  working on  
 
-Here are some ideas to get you started:
+Skills: PYTHON / JAVA / C / SCI-KIT LEARN / NUMPY / PANDAS / STREAMLIT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
