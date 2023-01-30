@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Kavin V</h1>
 <h3 align="center">A passionate AI developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavinvengidu&label=Profile%20views&color=0e75b6&style=flat" alt="kavinvengidu" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
@@ -13,9 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kavin v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavin v" height="30" width="40" /></a>
-<a href="https://kaggle.com/kavin v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kavin v" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@kavinvengidu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kavinvengidu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kavin-v-8028b9229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavin-v-8028b9229" height="30" width="40" /></a>
+<a href="https://kaggle.com/kavinkv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kavinkv" height="30" width="40" /></a>
+<a href="https://instagram.com/kavin_kv_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavin_kv_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kavinvengidu?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kavinvengidu?hr_r=1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kavinvengidu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kavinvengidu" height="30" width="40" /></a>
 </p>
 
