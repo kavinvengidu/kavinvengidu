@@ -3,7 +3,7 @@
 <h3 align="center">A passionate AI developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavinvengidu&label=Profile%20views&color=0e75b6&style=flat" alt="kavinvengidu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavinvengidu&label=Profile%20views&color=0e75b6&style=plastic" alt="kavinvengidu" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -25,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavinvengidu&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="kavinvengidu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavinvengidu&show_icons=true&locale=en" alt="kavinvengidu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavinvengidu&show_icons=true&theme=gruvbox&locale=en" alt="kavinvengidu" /></p>
