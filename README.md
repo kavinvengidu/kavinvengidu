@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kavinvengidu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a9KM0qnYINBBOIYNs5c_Abaq0ycGGriq/view?usp=share_link](https://drive.google.com/file/d/1a9KM0qnYINBBOIYNs5c_Abaq0ycGGriq/view?usp=share_link)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1a9KM0qnYINBBOIYNs5c_Abaq0ycGGriq/view?usp=share_link">**Click Here**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +26,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
+<p align="center"><br>
+  <img align="center" src="https://github.com/HyunCafe/HyunCafe/blob/main/assests/lofi.gif" alt="Lofi Girl drinking coffee coding" /> <br>
+</p>
+<p align="center"><br>
+  <img align="center" src="assests/lofi.gif" alt="Lofi Girl drinking coffee coding" /> <br>
+</p>
+  
+<div align="center">
+  <h2> <strong> My Github Stats </strong> <img src="assests/borderseperator.gif"></h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=kavinvengidu&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br>
 <br>
 
    
@@ -37,3 +46,9 @@
 
   <img src="https://github-readme-stats-i66v.vercel.app/api?username=kavinvengidu&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
 </div> <br>
+<p align="center"><br>
+  <img align="center" src="https://cdn.dribbble.com/users/1249242/screenshots/4080906/the-end-animation-final-v3.gif" alt="That all folks" /> <br>
+</p>
+<p align="center"><br>
+  <img align="center" src="assests/lofi.gif" alt="Lofi Girl drinking coffee coding" /> <br>
+</p>
