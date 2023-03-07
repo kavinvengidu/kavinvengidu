@@ -32,6 +32,8 @@
 <p align="center"><br>
   <img align="center" src="assests/lofi.gif" alt="Lofi Girl drinking coffee coding" /> <br>
 </p>
+<p align="center"><a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
+  </p>
   
 <div align="center">
   <h2> <strong> My Github Stats </strong> <img src="assests/borderseperator.gif"></h2>
