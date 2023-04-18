@@ -42,11 +42,11 @@
 
    
 
-  <img src="https://github-readme-stats-i66v.vercel.app/api/top-langs/?username=kavinvengidu&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages" /> <br>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavinvengidu&theme=night) <br>
 
-  <img src="https://streak-stats.demolab.com?    user=kavinvengidu&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=kavinvengidu&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-  <img src="https://github-readme-stats-i66v.vercel.app/api?username=kavinvengidu&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
+ ![Stat Card](https://github-stats-alpha.vercel.app/api?username=kavinvengidu)
 </div> <br>
 <p align="center"><br>
   <img align="center" src="https://cdn.dribbble.com/users/1249242/screenshots/4080906/the-end-animation-final-v3.gif" alt="That all folks" /> <br>
